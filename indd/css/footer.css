@@ -1,0 +1,6 @@
+footer {
+    background-color: #111827; color: white; padding: 4rem 2rem; text-align: center; border-top: 5px solid #7c3aed;
+}
+footer h2 { color: white; margin-bottom: 1rem; }
+footer a { color: #c084fc; text-decoration: none; }
+#mensaje-footer { margin-top: 2rem; font-size: 0.8rem; color: #6b7280; padding-top: 1rem; border-top: 1px solid #1f2937; }
